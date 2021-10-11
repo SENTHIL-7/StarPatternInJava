@@ -1,4 +1,3 @@
-package patternPrint;
 
 public class RightTriangle {
 
