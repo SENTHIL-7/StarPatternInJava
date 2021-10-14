@@ -1,4 +1,4 @@
-package patternPrint;
+
 
 public class LeftTriangle {
 
