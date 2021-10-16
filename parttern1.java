@@ -1,5 +1,3 @@
-package patternPrint;
-
 public class parttern1 {
 
 	public static void main(String[] args) {
