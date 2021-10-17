@@ -18,3 +18,19 @@ public class AlphabetPattern {
 	}
 
 }
+
+//sample output
+
+/*
+
+**** 
+*   *
+*   *
+*   *
+*****
+*   *
+*   *
+*   *
+*   *
+
+*/
