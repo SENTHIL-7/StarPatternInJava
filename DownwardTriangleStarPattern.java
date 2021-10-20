@@ -10,7 +10,7 @@ public class DownwardTriangleStarPattern {
          int col =row;
          for(int i=0;i<row;i++) {
         	 for(int j=0;j<col;j++) {
-        		 System.out.print("*");
+        		 System.out.print("*" + " ");
         	 }
         	 col--;
         	 System.out.println("");
@@ -18,3 +18,18 @@ public class DownwardTriangleStarPattern {
 	}
 
 }
+
+//sample output
+
+/*
+
+Enter the row : 7
+* * * * * * * 
+* * * * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+*/
