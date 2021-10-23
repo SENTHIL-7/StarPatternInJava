@@ -1,5 +1,3 @@
-package patternPrint;
-
 public class TriangleStarPattern {
 
 	public static void main(String[] args) {
