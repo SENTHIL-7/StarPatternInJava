@@ -6,7 +6,7 @@ public class TriangleStarPattern {
 		for(int i=1;i<=row;i++) {
 
 			for(int j=i;j<row;j++) {
-                System.out.print(" ");   
+                           System.out.print(" ");   
 			}
 			for(int k=1;k<=2*i-1;k++) {
 				if(k==1||i==row||k==2*i-1) {
